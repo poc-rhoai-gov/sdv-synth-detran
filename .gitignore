@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Data files
+*.csv
+*.CSV
+
+# Compressed files
+*.zip
+*.ZIP
+*.gz
+*.tar
+*.rar
